@@ -1,0 +1,67 @@
+{
+  "hardware-products": {
+    "title": "Hardware Products",
+    "products": [
+      { "name": "Hinges", "image": "/Hinges.jpg" },
+      { "name": "Drawer Channels", "image": "/DrawerChannels.jpg" },
+      { "name": "Glass Hardware", "image": "/GlassHardware.jpg" },
+      { "name": "Sliding Systems", "image": "/SlidingSystems.jpg" },
+      { "name": "Digital Smart Locks", "image": "/DigitalSmartLocks.jpg" }
+    ]
+  },
+
+  "modular-kitchen": {
+    "title": "Modular Kitchen Accessories",
+    "products": [
+      { "name": "Modular Kitchen Set", "image": "/modulerkitechenset.jpg" },
+      { "name": "Modular Corner Unit", "image": "/modularcorner.jpg" }
+    ]
+  },
+
+  "wardrobe": {
+    "title": "Wardrobe Accessories",
+    "products": [
+      { "name": "Sliding Wardrobe", "image": "/homewardrobe.jpg" },
+      { "name": "Walk-in Wardrobe", "image": "/walkin.webp" }
+    ]
+  },
+
+  "door-handles": {
+    "title": "Door Handles & Fittings",
+    "products": [
+      { "name": "Mortise Handle", "image": "/MortiseHandles.jpg" },
+      { "name": "Lever Handle", "image": "/LeverHandle.jpg" }
+    ]
+  },
+  "drawer-channels": {
+    "title": "Drawer Channels & Hinges",
+    "products": [
+      { "name": "Soft Close Drawer Channel", "image": "/softclose.jpg" },
+      { "name": "Concealed Cabinet Hinge", "image": "/concealed.jpg" }
+    ]
+  },
+
+  "door-locks": {
+    "title": "Door Locks & Smart Locks",
+    "products": [
+      { "name": "Digital Smart Lock", "image": "/DigitalSmartLocks.jpg" },
+      { "name": "Mortise Lock", "image": "/prod-locks.jpg" }
+    ]
+  },
+
+  "glass-hardware": {
+    "title": "Glass Hardware",
+    "products": [
+      { "name": "Glass Door Handle", "image": "/glassdoorhandle.jpg" },
+      { "name": "Glass Clamp Fitting", "image": "/glassclampfitting.jpg" }
+    ]
+  },
+
+  "wall-panels": {
+    "title": "PVC Wall Panels",
+    "products": [
+      { "name": "Wood Finish Panel", "image": "/woodpanel.jpg" },
+      { "name": "Marble Finish Panel", "image": "/marbelpanel.jpg" }
+    ]
+  }
+}
