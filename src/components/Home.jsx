@@ -131,6 +131,15 @@ export default function Home() {
           Call Now
         </a>
       </section>
+      <a
+      href="https://wa.me/918076932943"
+      target="_blank"
+      rel="noopener noreferrer"
+      className="fixed bottom-5 right-5 z-50 flex items-center justify-center w-14 h-14 rounded-full  text-white md:text-4xl text-3xl shadow-lg transition-transform duration-300 hover:scale-110"
+      aria-label="Chat on WhatsApp"
+    >
+      💬
+    </a>
     </div>
   );
 }

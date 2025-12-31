@@ -63,5 +63,15 @@
       { "name": "Wood Finish Panel", "image": "/woodpanel.jpg" },
       { "name": "Marble Finish Panel", "image": "/marbelpanel.jpg" }
     ]
+  },
+  "paint": {
+    "title": "Interior & Exterior Paints",
+    "products": [
+      { "name": "Interior Emulsion Paint", "image": "/interiorpaint.jpg" },
+      { "name": "Exterior Weatherproof Paint", "image": "/exteriorpaint.jpg" },
+      { "name": "Luxury Silk Finish Paint", "image": "/silkfinishpaint.jpg" },
+      { "name": "Textured Wall Paint", "image": "/texturepaint.jpg" },
+      { "name": "Waterproofing Paint", "image": "/waterproofpaint.jpg" }
+    ]
   }
 }

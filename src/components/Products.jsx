@@ -55,6 +55,11 @@ export default function Products() {
       slug: "wall-panels",
       img: wallpanel,
     },
+    {
+      title: "Interior & Exterior Paints",
+      slug: "paint",
+      img: '/interiorpaint.jpg',
+    },
   ];
 
   return (
