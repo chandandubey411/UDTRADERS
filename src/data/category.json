@@ -1,77 +1,93 @@
 {
-  "hardware-products": {
-    "title": "Hardware Products",
+  "hardware": {
+    "title": "Hardware Items",
     "products": [
-      { "name": "Hinges", "image": "/Hinges.jpg" },
-      { "name": "Drawer Channels", "image": "/DrawerChannels.jpg" },
-      { "name": "Glass Hardware", "image": "/GlassHardware.jpg" },
-      { "name": "Sliding Systems", "image": "/SlidingSystems.jpg" },
-      { "name": "Digital Smart Locks", "image": "/DigitalSmartLocks.jpg" }
+      {
+        "name": "Hinges",
+        "image": "/Hinges.jpg"
+      },
+      {
+        "name": "Channel",
+        "image": "/DrawerChannels.jpg"
+      },
+      {
+        "name": "Handle",
+        "image": "/MortiseHandles.jpg"
+      },
+      {
+        "name": "Mortice Lock",
+        "image": "/prod-locks.jpg"
+      },
+      {
+        "name": "Curtain Rod",
+        "image": "/curtainrod.jpg"
+      },
+      {
+        "name": "Hooks",
+        "image": "/hooks.jpg"
+      },
+      {
+        "name": "Drill Machine",
+        "image": "/drill.jpg"
+      }
     ]
   },
-
-  "modular-kitchen": {
-    "title": "Modular Kitchen Accessories",
+  "sanitary": {
+    "title": "Sanitary Items",
     "products": [
-      { "name": "Modular Kitchen Set", "image": "/modulerkitechenset.jpg" },
-      { "name": "Modular Corner Unit", "image": "/modularcorner.jpg" }
-    ]
-  },
-
-  "wardrobe": {
-    "title": "Wardrobe Accessories",
-    "products": [
-      { "name": "Sliding Wardrobe", "image": "/homewardrobe.jpg" },
-      { "name": "Walk-in Wardrobe", "image": "/walkin.webp" }
-    ]
-  },
-
-  "door-handles": {
-    "title": "Door Handles & Fittings",
-    "products": [
-      { "name": "Mortise Handle", "image": "/MortiseHandles.jpg" },
-      { "name": "Lever Handle", "image": "/LeverHandle.jpg" }
-    ]
-  },
-  "drawer-channels": {
-    "title": "Drawer Channels & Hinges",
-    "products": [
-      { "name": "Soft Close Drawer Channel", "image": "/softclose.jpg" },
-      { "name": "Concealed Cabinet Hinge", "image": "/concealed.jpg" }
-    ]
-  },
-
-  "door-locks": {
-    "title": "Door Locks & Smart Locks",
-    "products": [
-      { "name": "Digital Smart Lock", "image": "/DigitalSmartLocks.jpg" },
-      { "name": "Mortise Lock", "image": "/prod-locks.jpg" }
-    ]
-  },
-
-  "glass-hardware": {
-    "title": "Glass Hardware",
-    "products": [
-      { "name": "Glass Door Handle", "image": "/glassdoorhandle.jpg" },
-      { "name": "Glass Clamp Fitting", "image": "/glassclampfitting.jpg" }
-    ]
-  },
-
-  "wall-panels": {
-    "title": "PVC Wall Panels",
-    "products": [
-      { "name": "Wood Finish Panel", "image": "/woodpanel.jpg" },
-      { "name": "Marble Finish Panel", "image": "/marbelpanel.jpg" }
+      {
+        "name": "Pipes + Fittings (CPVC / PVC)",
+        "image": "/pvc.jpg"
+      },
+      {
+        "name": "Faucet",
+        "image": "/Faucet.webp"
+      },
+      {
+        "name": "Taps",
+        "image": "/Taps.jpg"
+      },
+      {
+        "name": "Bathroom Accessories",
+        "image": "/BathroomAccessories.jpg"
+      },
+      {
+        "name": "Mirror / LED Mirror",
+        "image": "/LEDMirror.jpg"
+      },
+      {
+        "name": "Vanity Set",
+        "image": "/VanitySet.jpg"
+      },
+      {
+        "name": "Toilet Seat + Fitting",
+        "image": "/ToiletSeat.jpg"
+      },
+      {
+        "name": "Wash Basin",
+        "image": "/WashBasin.jpg"
+      }
     ]
   },
   "paint": {
-    "title": "Interior & Exterior Paints",
+    "title": "Paint Brands",
     "products": [
-      { "name": "Interior Emulsion Paint", "image": "/interiorpaint.jpg" },
-      { "name": "Exterior Weatherproof Paint", "image": "/exteriorpaint.jpg" },
-      { "name": "Luxury Silk Finish Paint", "image": "/silkfinishpaint.jpg" },
-      { "name": "Textured Wall Paint", "image": "/texturepaint.jpg" },
-      { "name": "Waterproofing Paint", "image": "/waterproofpaint.jpg" }
+      {
+        "name": "Asian Paints",
+        "image": "/interiorpaint.jpg"
+      },
+      {
+        "name": "Berger Paint",
+        "image": "/exteriorpaint.jpg"
+      },
+      {
+        "name": "Dulux Paint",
+        "image": "/silkfinishpaint.jpg"
+      },
+      {
+        "name": "Nerolac Paint",
+        "image": "/texturepaint.jpg"
+      }
     ]
   }
 }
