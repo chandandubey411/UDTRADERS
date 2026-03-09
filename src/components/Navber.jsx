@@ -38,12 +38,13 @@ export default function Navbar() {
       <div className="max-w-7xl mx-auto px-5 flex items-center justify-between">
         <Link
           to="/"
-          className="flex items-center gap-3 text-white leading-none"
+          className={`flex items-center justify-center transition-all duration-300
+  ${scrolled ? "h-12 w-12 md:h-14 md:w-14 bg-white rounded-full shadow-md" : "h-14 w-14 md:h-16 md:w-16"}`}
         >
           <img
             src={logo}
             alt="U&D Traders Logo"
-            className="h-12 sm:h-14 md:h-16 w-auto object-contain transition-transform duration-300 hover:scale-105"
+            className="h-full w-full object-contain transition-transform duration-300 hover:scale-110"
           />
         </Link>
 
